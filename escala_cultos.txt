@@ -1,0 +1,157 @@
+ESCALA COMPLETA DE CULTOS
+==================================================
+
+DATA: 03/07/2025 (Thursday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Lucas
+DIRETOR             : Pedro Garcia
+FOTO                : André
+LIVE                : Isaac
+LUZ                 : Arthur
+PROJEÇÃO            : Henryque
+REELS		    : Rebeca
+
+DATA: 04/07/2025 (Friday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Henryque
+DIRETOR             : Pedro Garcia
+FOTO                : Felipe
+LIVE                : Pedro Gomes
+LUZ                 : Isaac
+PROJEÇÃO            : Fernanda
+REELS		    : Heloise
+
+DATA: 05/07/2025 (Saturday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Matheus
+DIRETOR             : Fernanda
+FOTO                : Pedro Garcia
+LIVE                : Isaac
+LUZ                 : Arthur
+PROJEÇÃO            : João Gui
+REELS		    : Rebeca
+
+DATA: 06/07/2025 (Sunday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Rebeca
+DIRETOR             : Pedro Garcia
+FOTO                : Felipe
+LIVE                : Isaac
+LUZ                 : Lucas
+PROJEÇÃO            : Fernanda
+STORIES             : Edson
+
+DATA: 06/07/2025 (Sunday)
+TURNO: Manhã
+--------------------------------------------------
+CÂMERA              : Henryque
+DIRETOR             : Fernanda
+FOTO                : André
+LIVE                : Isaac
+LUZ                 : Pedro Gomes
+PROJEÇÃO            : Arthur
+REELS               : Edson
+
+DATA: 11/07/2025 (Friday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Hadassa
+DIRETOR             : Fernanda
+FOTO                : André
+LIVE                : Isaac
+LUZ                 : Arthur
+PROJEÇÃO            : João Gui
+
+DATA: 13/07/2025 (Sunday)
+TURNO: Manhã
+--------------------------------------------------
+CÂMERA              : Matheus
+DIRETOR             : Pedro Garcia
+FOTO                : Felipe
+LIVE                : Isaac
+LUZ                 : Lucas
+PROJEÇÃO            : Henryque
+REELS               : Edson
+
+DATA: 14/07/2025 (Monday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Pedro Gomes
+DIRETOR             : Fernanda
+FOTO                : André
+LIVE                : Isaac
+LUZ                 : Arthur
+PROJEÇÃO            : Rebeca
+STORIES             : Edson
+
+DATA: 18/07/2025 (Friday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Hadassa
+DIRETOR             : Pedro Garcia
+FOTO                : Felipe
+LIVE                : Isaac
+LUZ                 : Lucas
+PROJEÇÃO            : Fernanda
+
+DATA: 20/07/2025 (Sunday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Henryque
+DIRETOR             : Fernanda
+FOTO                : André
+LIVE                : Isaac
+LUZ                 : Arthur
+PROJEÇÃO            : João Gui
+STORIES             : Edson
+
+DATA: 20/07/2025 (Sunday)
+TURNO: Manhã
+--------------------------------------------------
+CÂMERA              : Matheus
+DIRETOR             : Pedro Garcia
+FOTO                : Felipe
+LIVE                : Isaac
+LUZ                 : Lucas
+PROJEÇÃO            : Fernanda
+REELS               : Edson
+
+DATA: 25/07/2025 (Friday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Pedro Gomes
+DIRETOR             : Fernanda
+FOTO                : André
+LIVE                : Isaac
+LUZ                 : Arthur
+PROJEÇÃO            : Rebeca
+
+DATA: 27/07/2025 (Sunday)
+TURNO: Noite
+--------------------------------------------------
+CÂMERA              : Hadassa
+DIRETOR             : Pedro Garcia
+FOTO                : Felipe
+LIVE                : Isaac
+LUZ                 : Lucas
+PROJEÇÃO            : Fernanda
+STORIES             : Edson
+
+DATA: 27/07/2025 (Sunday)
+TURNO: Manhã
+--------------------------------------------------
+CÂMERA              : Henryque
+DIRETOR             : Fernanda
+FOTO                : André
+LIVE                : Isaac
+LUZ                 : Arthur
+PROJEÇÃO            : João Gui
+REELS               : Edson
+
+==================================================
+Total de cultos: 14
+Arquivo gerado em: 27/06/2025 01:04
