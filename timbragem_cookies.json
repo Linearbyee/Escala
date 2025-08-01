@@ -1,0 +1,22 @@
+[
+  {
+    "name": ".AspNetCore.Antiforgery.9TtSrW0hzOs",
+    "value": "CfDJ8Hx3G9sWotRNgDBeqpaRZjvVjXjJnRvWACDxXW1fuDrdouACSGs-bt-x4tDeda7UMcA7FaK3l38EAV6DmsbdPmk-lBsxi3nyuw4rW192A4JT2zSmSIht8-tlF9LoUZzDJN0hSShB1XXiBh8dbovkG0E",
+    "domain": "www.timbragemplan.com.br",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": ".AspNetCore.Identity.Application",
+    "value": "CfDJ8Hx3G9sWotRNgDBeqpaRZjvYgjGuir7UQXDadO-sI2Kw-mWmGrY7wdVGhvHE9ygo13R5uxT-Pj6URuDtaKT8ImaCybe7axCja7K8D5QJ4Q6f_uCg0VBbDYNvhIJf3rb6wa5kt9HNzytT8qSSTXhPeuK4isCPdP0S6H5qSxY-Y8vfaGplHD_rhWtBInoCZ8N1B4q4QDOrNUJeuRSvU_53cb1DA4mohv5nPXW53UwBW63om_wOpo5LQ8Vdli5BOusxvaDY5q6mTpYigzxPdIu9mSO4SJognCHui6imddsnQn8g0EDUqOMj7hOaFfVejCdpgKW_KVXUWZ011G8G33Jcf3jKdh3nUFAgKIEn5Nh9YpVJt2x9cv2XerMBa9LXimwcuzy7nebcTB90bjgJ9vvjCpVK1kjtRg1l8kCepjA3FBxNnVh07raJha5fFwrlmbp2QRdOPhaVnWSmyl2B81BgRNIvZiCMbmT67K_TVhxnEP_xRpBzsTyko24e5GqGAyio9wSvUUiQraVB_En_dac_haC_06mdWtkOagKpqaR1sWO58pkUCWAyiFSmCU5vklkpeZkRSzK_EGphe5m8Du9aKYZAYlD1E7eqKo-AmOrrbsS8eLPPwnzo81DDoQ_imvtum6zRu-UUV3Nm6chvJAr9wXg",
+    "domain": "www.timbragemplan.com.br",
+    "path": "/",
+    "expires": 1755227369.279185,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
