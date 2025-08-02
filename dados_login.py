@@ -5,7 +5,7 @@ print("🧪 __file__:", __file__)
 from login import fazer_login
 from puxar_eventos import buscar_eventos  # ✅ deve bater com o nome do seu arquivo.py
 from read_block import buscar_bloqueios  # ✅ deve bater com o nome do seu arquivo.py
-
+from busca_usuarios import search_user  # ✅ deve bater com o nome do seu arquivo.py
 
 email = "garcia.phsp@hotmail.com"
 senha = "Phsp38082902"
@@ -27,6 +27,12 @@ elif modo == "bloqueios":
     if sucesso:
         from read_block import buscar_bloqueios
         buscar_bloqueios()
+        
+elif modo == "usuarios":
+    sucesso = fazer_login(email, senha, headless=True)
+    if sucesso:
+        from busca_usuarios import search_user
+        search_user()
 
 
 

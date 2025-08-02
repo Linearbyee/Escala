@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "00fb3d41-d353-4114-98a6-2853b01b1697",
+    "email": "bibidias.bia@gmail.com",
+    "name": "Beatriz Dias de Almeida",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "0166a582-2105-49f4-95d0-3a9146c64a32",
+    "email": "na_1103@hotmail.com",
+    "name": "Natalia Carvalho",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "064d81a6-2717-4160-afa6-82bc5e271f00",
+    "email": "anabeatrizst11@gmail.com",
+    "name": "Ana Beatriz Moreira da Silva ",
+    "organizationTeamPositions": [
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "08b88ec2-6846-43ce-b217-a8b714fac9b7",
+    "email": "fernandoon.lf@gmail.com",
+    "name": "Luiz Fernando de Oliveira Nascimento",
+    "organizationTeamPositions": [
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "0e17d61d-8d2b-49b9-9125-c541d725aa9b",
+    "email": "niviaguimaraespoorto@gmail.com",
+    "name": "Nívia Guimarães ",
+    "organizationTeamPositions": [
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "100f085e-8602-411d-9678-97e91ffe5d6d",
+    "email": "quesia24.10.08@gmail.com",
+    "name": "Quezia Nascimento ",
+    "organizationTeamPositions": [
+      {
+        "id": "a77e4464-f091-4d16-a9f4-14b1d85a999f",
+        "name": "Contralto",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "222a85bf-7850-4d70-9947-fd5e9e6aa5d5",
+        "name": "Coral",
+        "organizationTeamName": "Coral",
+        "organizationTeamId": "4513f8e2-ae03-4103-a57d-3cec3ab853ac"
+      },
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "123d25e4-9052-4125-84db-7fb82fd9d96a",
+    "email": "giovanna_santana.oliveira@hotmail.com",
+    "name": "Giovanna Santana Oliveira",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "132d9c48-d8b6-4aae-861d-becf4b9be843",
+    "email": "danielnascisantos@gmail.com",
+    "name": "Daniel Rhodes",
+    "organizationTeamPositions": [
+      {
+        "id": "7721c391-497d-442d-9e85-6df0c851cdd1",
+        "name": "Teclado",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "17fc83b0-cbdb-4ce1-8478-54f0f1b5eb7d",
+    "email": "gomesle183@gmail.com",
+    "name": "Leticia Gomes",
+    "organizationTeamPositions": [
+      {
+        "id": "222a85bf-7850-4d70-9947-fd5e9e6aa5d5",
+        "name": "Coral",
+        "organizationTeamName": "Coral",
+        "organizationTeamId": "4513f8e2-ae03-4103-a57d-3cec3ab853ac"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "4ab9fed7-380d-48e4-aed9-b254576bff8e",
+        "name": "Soprano",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      }
+    ]
+  },
+  {
+    "id": "190382cb-bd76-4ad7-83c6-15793fcc412c",
+    "email": "carlostesser7@gmail.com",
+    "name": "Juninho Tesser",
+    "organizationTeamPositions": [
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "19761447-39be-417b-9947-de2f11b14405",
+    "email": "luis.saxjazz@gmail.com",
+    "name": "Luís Fernando Lima | Nataly ",
+    "organizationTeamPositions": [
+      {
+        "id": "3a5e5589-fd91-4baa-8afa-9a0b49a4745d",
+        "name": "Saxofone",
+        "organizationTeamName": "Metais",
+        "organizationTeamId": "d382f706-e551-44d6-8e6d-f2ff15a6e9da"
+      },
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "1d206bd2-df77-4bde-a172-9912defe8c97",
+    "email": "willianlwglvc@gmail.com",
+    "name": "Willian Silva Feitoza",
+    "organizationTeamPositions": [
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "e9a3a736-cae3-4c48-ae36-0043926c805a",
+        "name": "Tenor",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      }
+    ]
+  },
+  {
+    "id": "1e89afcf-15fa-4df9-a2a2-c1f279172617",
+    "email": "bruder1@live.com",
+    "name": "Caio Adonay",
+    "organizationTeamPositions": [
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "2286882d-5802-443a-bef3-ea688239d581",
+    "email": "larycostaalegria@gmail.com",
+    "name": "Laryssa Costa",
+    "organizationTeamPositions": [
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "a41ce62b-664d-43d7-88bc-28b6cb85552c",
+        "name": "Cajon",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "43ee9eaa-4244-46a6-b926-5c8a250224b8",
+        "name": "Vídeo",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2bfdd30f-cddf-476b-8b50-ee834644bf08",
+        "name": "Bateria",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4ab9fed7-380d-48e4-aed9-b254576bff8e",
+        "name": "Soprano",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "2a79e3f3-df97-4627-9bdf-0b7ae076bed5",
+    "email": "talita.quilice@gmail.com",
+    "name": "Talita Quilice",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "2dd4b3e8-7710-4c9a-b3c0-56b509f81e8d",
+    "email": "ty22lima@gmail.com",
+    "name": "Nataly Lopes Vitoriano Lima",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "222a85bf-7850-4d70-9947-fd5e9e6aa5d5",
+        "name": "Coral",
+        "organizationTeamName": "Coral",
+        "organizationTeamId": "4513f8e2-ae03-4103-a57d-3cec3ab853ac"
+      }
+    ]
+  },
+  {
+    "id": "2e4eb352-b00b-45e7-92a8-adb3ff6378c3",
+    "email": "leo.ferreira.lf8@gmail.com",
+    "name": "Leonardo Ferreira da Silva",
+    "organizationTeamPositions": [
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "2f97e354-8a26-49bf-b3d9-e7c4e2a1e00f",
+    "email": "naaraolimpio@gmail.com",
+    "name": "Naara Emily Santos ",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "347fb008-9084-49d5-930d-5ac1f0ae124b",
+    "email": "diego.roldiesantos@gmail.com",
+    "name": "Diego santos ",
+    "organizationTeamPositions": [
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "34fd5ed6-c7b5-4f17-9cb5-db3c16425dc8",
+    "email": "sofiatlira10@gmail.com",
+    "name": "Sofia Lira",
+    "organizationTeamPositions": [
+      {
+        "id": "4ab9fed7-380d-48e4-aed9-b254576bff8e",
+        "name": "Soprano",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "222a85bf-7850-4d70-9947-fd5e9e6aa5d5",
+        "name": "Coral",
+        "organizationTeamName": "Coral",
+        "organizationTeamId": "4513f8e2-ae03-4103-a57d-3cec3ab853ac"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "352a3922-ebf5-489b-921a-f155d575475e",
+    "email": "kathleenc.silva2002@gmail.com",
+    "name": "Kathleen Cristiane da Silva",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "3d286bc1-0df9-420c-8919-e0cdfb3be442",
+    "email": "juniorsolarenco@gmail.com",
+    "name": "Eduardo Cosmos Solarenco Junior",
+    "organizationTeamPositions": [
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "3e25a55d-00b5-4dd5-b002-38864a1e9044",
+    "email": "guido092003@gmail.com",
+    "name": "Guilherme Santos",
+    "organizationTeamPositions": [
+      {
+        "id": "2cf21a1d-f6d9-410e-aff7-6715ca673355",
+        "name": "Diretor de banda",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "7721c391-497d-442d-9e85-6df0c851cdd1",
+        "name": "Teclado",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "46607ead-e83b-494b-90da-82fc621fffd2",
+    "email": "souza300max@gmail.com",
+    "name": "Max Souza Valverde da Silva ",
+    "organizationTeamPositions": [
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "497e1624-e1e8-4dbb-bc6d-e2ed6386d397",
+    "email": "gregorilb.lauriano@gmail.com",
+    "name": "Gregori Lauriano ",
+    "organizationTeamPositions": [
+      {
+        "id": "23dc7d79-f906-487f-b4da-88f20a73ba3d",
+        "name": "Trombone",
+        "organizationTeamName": "Metais",
+        "organizationTeamId": "d382f706-e551-44d6-8e6d-f2ff15a6e9da"
+      },
+      {
+        "id": "7721c391-497d-442d-9e85-6df0c851cdd1",
+        "name": "Teclado",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "49ebe8c1-15e1-4bc5-a0a5-6810c32c1a59",
+    "email": "claudio_santtana@hotmail.com",
+    "name": "Claudio Santana ",
+    "organizationTeamPositions": [
+      {
+        "id": "222a85bf-7850-4d70-9947-fd5e9e6aa5d5",
+        "name": "Coral",
+        "organizationTeamName": "Coral",
+        "organizationTeamId": "4513f8e2-ae03-4103-a57d-3cec3ab853ac"
+      },
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "4a61d50e-0d9a-44b5-b1e2-f2da45c8d526",
+    "email": "leandro_torres17@hotmail.com",
+    "name": "Leandro Torres",
+    "organizationTeamPositions": [
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "4d30dd57-5973-472f-bd13-ff4e9b49f020",
+    "email": "rebecatimoteo345@gmail.com",
+    "name": "Rebeca Rodrigues Temoteo ",
+    "organizationTeamPositions": [
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "43ee9eaa-4244-46a6-b926-5c8a250224b8",
+        "name": "Vídeo",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "941253a7-cfaa-46ba-baf3-703d7cc34b1f",
+        "name": "Stories",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "55640fbb-83af-4093-ab23-baa539e3250d",
+    "email": "mourasophia122@gmail.com",
+    "name": "Sophia Moura",
+    "organizationTeamPositions": [
+      {
+        "id": "4ab9fed7-380d-48e4-aed9-b254576bff8e",
+        "name": "Soprano",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "59ab550d-a259-4f55-ad3c-819b059f1536",
+    "email": "garcia.phsp@hotmail.com",
+    "name": "Pedro Garcia ",
+    "organizationTeamPositions": [
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "437966e6-60de-46e2-8523-b5a2aa9490d6",
+        "name": "8. Diretor",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "43ee9eaa-4244-46a6-b926-5c8a250224b8",
+        "name": "Vídeo",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "6300228e-ad1e-415c-bf39-dedfaf423f56",
+    "email": "amanda.limasts@gmail.com",
+    "name": "Amanda Oliveira ",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "654560aa-ff3e-4f9f-a7f0-714939d831da",
+    "email": "gabrielmoreira2015sqs@gmail.com",
+    "name": "Gabriel Moreira da Silva",
+    "organizationTeamPositions": [
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "65a43726-86e8-44ad-b8a6-1ed5251fca55",
+    "email": "melaniesousa0703@gmail.com",
+    "name": "Melanie",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "4ab9fed7-380d-48e4-aed9-b254576bff8e",
+        "name": "Soprano",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      }
+    ]
+  },
+  {
+    "id": "6740a517-2f64-4368-828f-6c44515a77d1",
+    "email": "juan.aparecido@gmail.com",
+    "name": "Juan Aparecido",
+    "organizationTeamPositions": [
+      {
+        "id": "941253a7-cfaa-46ba-baf3-703d7cc34b1f",
+        "name": "Stories",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4544a3d0-06bf-4b3a-b197-f6ae2a77264d",
+        "name": "Baixo",
+        "organizationTeamName": "Pré - Escala",
+        "organizationTeamId": "f4ab75a6-ac66-49be-9cff-cfaee5e38ff7"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "6f16ed22-396c-47e4-b85a-ffff0caf4324",
+    "email": "matheussiqueira2709@gmail.com",
+    "name": "Matheus ",
+    "organizationTeamPositions": [
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "6f4985b4-c70e-48a3-924a-c507c654c6da",
+    "email": "denisjesusferreira@hotmail.com",
+    "name": "Denis",
+    "organizationTeamPositions": [
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "6f90dc12-d3c6-4b2f-be85-71f9a36a3750",
+    "email": "adilson.rosendo@hotmail.com",
+    "name": "Adilson Júnior ",
+    "organizationTeamPositions": [
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "735ec389-4310-4d9b-a949-f0f20b500bd7",
+    "email": "carla.robertaa14@gmail.com",
+    "name": "Carla Roberta Costa Vidal ",
+    "organizationTeamPositions": [
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "80a35fad-cfb6-48c5-85f4-bf19fa212dc9",
+    "email": "roney.almeida22.rs@gmail.com",
+    "name": "Ronei santana ",
+    "organizationTeamPositions": [
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "820b67ca-3ad9-42f1-99f5-853e1c98a62e",
+    "email": "hadassagrava@gmail.com",
+    "name": "Hadassa Grava De Oliveira",
+    "organizationTeamPositions": [
+      {
+        "id": "281dc6ed-f08a-4d00-8613-e9d1647e56dd",
+        "name": "Guitarra",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "382ef8d8-10f3-4cd1-87bf-09da93542f5c",
+        "name": "Guitarra 1",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "971300a7-ac12-4e47-9392-254dd0935efd",
+        "name": "Violão",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "8e447e7e-21aa-4d9e-96ef-46b37d3ebba3",
+    "email": "rodteixeiradg@gmail.com",
+    "name": "Rodrigo Teixeira",
+    "organizationTeamPositions": [
+      {
+        "id": "8452afbb-9a12-4c79-9d68-58522df87da5",
+        "name": "Guitarra 2",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "281dc6ed-f08a-4d00-8613-e9d1647e56dd",
+        "name": "Guitarra",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "437966e6-60de-46e2-8523-b5a2aa9490d6",
+        "name": "8. Diretor",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "382ef8d8-10f3-4cd1-87bf-09da93542f5c",
+        "name": "Guitarra 1",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "43ee9eaa-4244-46a6-b926-5c8a250224b8",
+        "name": "Vídeo",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "8fc9fdf2-56ab-4751-98b8-f1bf7d125013",
+    "email": "elenpsant@hotmail.com",
+    "name": "Elenira Pereira de Santana ",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "93038dc9-6858-461b-86d5-a02cefc586c2",
+    "email": "lipetesser2008@gmail.com",
+    "name": "Felipe Gabriel Tesser ",
+    "organizationTeamPositions": [
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "a41ce62b-664d-43d7-88bc-28b6cb85552c",
+        "name": "Cajon",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "992c8598-4611-488a-b751-326b8824ca15",
+    "email": "fernandajrubio@gmail.com",
+    "name": "Fernanda Rubio",
+    "organizationTeamPositions": [
+      {
+        "id": "437966e6-60de-46e2-8523-b5a2aa9490d6",
+        "name": "8. Diretor",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "ff5fd6f2-057a-498c-bc8f-9db65482d21b",
+        "name": "Baixo",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "43ee9eaa-4244-46a6-b926-5c8a250224b8",
+        "name": "Vídeo",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "99424908-9267-47dc-8e10-ed87335a4ffd",
+    "email": "pg300107@gmail.com",
+    "name": "Pedro Gomes",
+    "organizationTeamPositions": [
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "9946af88-b764-46ed-adf8-508f8ca5c3d2",
+    "email": "karolina.akon@gmail.com",
+    "name": "Ana Karolina de Oliveira Nascimento",
+    "organizationTeamPositions": [
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "ee553b78-4281-4861-b97c-d644852589b5",
+        "name": "Bateria",
+        "organizationTeamName": "Pré - Escala",
+        "organizationTeamId": "f4ab75a6-ac66-49be-9cff-cfaee5e38ff7"
+      }
+    ]
+  },
+  {
+    "id": "9d506dff-818f-476e-924a-918a68866c6a",
+    "email": "mouralorena122@gmail.com",
+    "name": "Lorena Moura",
+    "organizationTeamPositions": [
+      {
+        "id": "51e6c797-0fe7-4731-89a5-445a4a639cfd",
+        "name": "Sonoplastia",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      }
+    ]
+  },
+  {
+    "id": "9d7def3d-4815-4484-ade1-e8a49bfabcc5",
+    "email": "diego.ferreira.santos99@gmail.com",
+    "name": "Diego Ferreira dos Santos ",
+    "organizationTeamPositions": [
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "9f4e6cc9-04f2-4214-9c45-ec19113516a9",
+    "email": "alexandre@prosegequipamentos.com.br",
+    "name": "Alexandre Marinho Ferreira",
+    "organizationTeamPositions": [
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "a03457ec-5c1e-4703-929a-b2706c03fa1f",
+    "email": "esolarenco@gmail.com",
+    "name": "Eduardo Cosmos Solarenco ",
+    "organizationTeamPositions": [
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "a063a539-d354-43e6-bdfe-50850580537e",
+    "email": "laisrobertaa@live.com",
+    "name": "Laís Roberta",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "a0f1cb75-47a9-4a47-b113-b2e86a6ad6ac",
+    "email": "isabellecabralds@gmail.com",
+    "name": "Isabelly Cabral ",
+    "organizationTeamPositions": [
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "ca2c82af-1dca-461a-b6af-b3da3200e959",
+        "name": "Iluminação",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "a40d5176-16d9-4199-bf70-171ebf53a542",
+    "email": "2008leticiaalves@gmail.com",
+    "name": "Letícia Alves Brito",
+    "organizationTeamPositions": [
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "a83dcfb5-a2c6-41de-be55-f4644aa1aaf3",
+    "email": "joaoguiguizao75@gmail.com",
+    "name": "João Guilherme Lima de Souza ",
+    "organizationTeamPositions": [
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "ab63facf-4191-4bcc-93dd-59e6af97645e",
+    "email": "tatisirqueiraa@gmail.com",
+    "name": "Tatiane Ferreira",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "abc59a52-ab7d-4960-a2e3-3bd40c85c800",
+    "email": "andre.luizdesantana@gmail.com",
+    "name": "André Santana",
+    "organizationTeamPositions": [
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "b4b5f271-e4ed-4649-b7e6-59c802d92988",
+    "email": "andre_coliveira@hotmail.com",
+    "name": "André Costa Oliveira ",
+    "organizationTeamPositions": [
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "b59e4290-0963-4fc8-a82c-a61515ff2181",
+    "email": "marianalima2805@gmail.com",
+    "name": "Mariana Lima Carvalho ",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "222a85bf-7850-4d70-9947-fd5e9e6aa5d5",
+        "name": "Coral",
+        "organizationTeamName": "Coral",
+        "organizationTeamId": "4513f8e2-ae03-4103-a57d-3cec3ab853ac"
+      },
+      {
+        "id": "a77e4464-f091-4d16-a9f4-14b1d85a999f",
+        "name": "Contralto",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      }
+    ]
+  },
+  {
+    "id": "b82ef00b-747d-4d9a-b8aa-4bd67fdcf34a",
+    "email": "isaacjeanrubio@gmail.com",
+    "name": "Isaac Jean Rubio",
+    "organizationTeamPositions": [
+      {
+        "id": "437966e6-60de-46e2-8523-b5a2aa9490d6",
+        "name": "8. Diretor",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "7721c391-497d-442d-9e85-6df0c851cdd1",
+        "name": "Teclado",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "15744460-e44e-4659-a9e0-c18e4808914d",
+        "name": "Teclado",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "b8d733f8-abcd-4b0b-bfd5-802a26d822e8",
+    "email": "anamarisantos67@gmail.com",
+    "name": "Ana Paula",
+    "organizationTeamPositions": [
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "bc86d7bb-2c95-4ce4-ab6c-7c93ad68ca66",
+    "email": "lucascdealmeida2010@gmail.com",
+    "name": "Lucas Costa",
+    "organizationTeamPositions": [
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "281dc6ed-f08a-4d00-8613-e9d1647e56dd",
+        "name": "Guitarra",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "971300a7-ac12-4e47-9392-254dd0935efd",
+        "name": "Violão",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "deed6db3-0600-4d82-9328-69113a0be6a0",
+        "name": "Violão",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "382ef8d8-10f3-4cd1-87bf-09da93542f5c",
+        "name": "Guitarra 1",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "e9a3a736-cae3-4c48-ae36-0043926c805a",
+        "name": "Tenor",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "bef00386-81b2-462f-81e7-4c3c44b3c597",
+    "email": "heloisecsg@gmail.com",
+    "name": "Heloise Garcia",
+    "organizationTeamPositions": [
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "ca91b100-abfc-4fcf-bc4a-effff39ef621",
+    "email": "naragon0828@gmail.com",
+    "name": "Thaynara Gonçalves",
+    "organizationTeamPositions": [
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "437966e6-60de-46e2-8523-b5a2aa9490d6",
+        "name": "8. Diretor",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "cc69d062-0166-4b85-9897-30cf3cb9c780",
+    "email": "michellymika59@hotmail.com",
+    "name": "Michelle sousa torres ",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "d3c67aaa-fa58-40d2-92c8-4d32012b2b12",
+    "email": "lmonteiro.edson2@gmail.com",
+    "name": "Edson Lovato Monteiro",
+    "organizationTeamPositions": [
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "437966e6-60de-46e2-8523-b5a2aa9490d6",
+        "name": "8. Diretor",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "941253a7-cfaa-46ba-baf3-703d7cc34b1f",
+        "name": "Stories",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "d3fb464c-b444-4c2c-83e7-af836bd93a3c",
+    "email": "wanfarina@hotmail.com",
+    "name": "Wanessa ",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "d6491aea-16e1-4ff2-9f42-1f8be3b9dc6b",
+    "email": "joallucasradical@hotmail.com",
+    "name": "João Alves ",
+    "organizationTeamPositions": [
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "da9932b7-fb8b-4409-8b5e-a45ce23a0147",
+    "email": "rosanapesantos10@gmail.com",
+    "name": "Rosana de Araújo Santos ",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "dad68835-58f2-4716-a54f-949649ebac40",
+    "email": "bella-dias@hotmail.com",
+    "name": "Isabela Dias",
+    "organizationTeamPositions": [
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "dc2c8cdb-d217-450e-ba0b-34217f4ceda6",
+    "email": "odelfinoarthur@gmail.com",
+    "name": "Arthur Delfino",
+    "organizationTeamPositions": [
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "69e2c358-ceb3-4a10-a718-191ebd7e4050",
+        "name": "4. Foto",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "4cf09b9d-3e92-4f9c-abc4-913372ec7089",
+        "name": "5. Luz",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2140348e-e737-48a7-a66a-b9834f7beb02",
+        "name": "6. Vídeo (Reels)",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "437966e6-60de-46e2-8523-b5a2aa9490d6",
+        "name": "8. Diretor",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "e14c8141-cc24-4b2d-9c59-584dea185206",
+    "email": "ateliesimoneclaro@gmail.com",
+    "name": "Simone Claro",
+    "organizationTeamPositions": [
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "e6d58d5d-98f0-4a6e-a4ab-9f1d86277510",
+    "email": "angelicamalkenu@gmail.com",
+    "name": "Angelica Carvalho",
+    "organizationTeamPositions": [
+      {
+        "id": "bb35e709-f96d-42db-90da-91ef4c41b326",
+        "name": "Soprano",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "4ab9fed7-380d-48e4-aed9-b254576bff8e",
+        "name": "Soprano",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "a77e4464-f091-4d16-a9f4-14b1d85a999f",
+        "name": "Contralto",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "ea51f24d-b01e-4f26-87cc-61b191f63ee9",
+    "email": "dielsonsouza.info@gmail.com",
+    "name": "Dielson",
+    "organizationTeamPositions": [
+      {
+        "id": "382ef8d8-10f3-4cd1-87bf-09da93542f5c",
+        "name": "Guitarra 1",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "2cf21a1d-f6d9-410e-aff7-6715ca673355",
+        "name": "Diretor de banda",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "40241eec-bc99-4af8-82b4-4e900525d7b9",
+        "name": "Contrabaixo",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "ea9f0457-9c8f-47dd-97e5-50a0a1ca563b",
+    "email": "joi_souzaa@outlook.com",
+    "name": "Joice Souza",
+    "organizationTeamPositions": [
+      {
+        "id": "fdf50255-e39c-4661-86c4-773f2acaef0e",
+        "name": "Ministro",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      },
+      {
+        "id": "f6d7e8f0-1c3f-4ebe-bb2d-3c9744a45e35",
+        "name": "Contralto",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "ee82ffc0-1b1a-47f6-8e78-03306bbabad5",
+    "email": "michaeldeoliveira1996@gmail.com",
+    "name": "Michael de Oliveira Santos",
+    "organizationTeamPositions": [
+      {
+        "id": "bc1b8990-77c7-4308-be2f-3683100eaac8",
+        "name": "Bateria",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "eeb8c628-d00a-4f37-b9c8-4f3d28132e52",
+    "email": "jvbbentho@gmail.com",
+    "name": "João Victor Bento ",
+    "organizationTeamPositions": [
+      {
+        "id": "e9a3a736-cae3-4c48-ae36-0043926c805a",
+        "name": "Tenor",
+        "organizationTeamName": "Birimbinhas",
+        "organizationTeamId": "fcc3b8a2-0efe-45fc-86d5-459fd1669a57"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "c11bfe3a-0d67-4001-899e-6c93ffea59ca",
+        "name": "7. Apoio",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "cfefb8a0-2e47-4aa2-b3e9-b6c7adc917c8",
+        "name": "3. Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "89959160-3fa5-4094-867f-80aadde0d78b",
+        "name": "Tenor",
+        "organizationTeamName": "Vocal",
+        "organizationTeamId": "96bf9757-20b9-4e73-9ca7-6d2b9db2cb9b"
+      }
+    ]
+  },
+  {
+    "id": "ef5285c6-8180-46ce-88a0-06ef300fa69c",
+    "email": "niltonandrade.sax@hotmail.com",
+    "name": "Nilton Andrade Souza ",
+    "organizationTeamPositions": [
+      {
+        "id": "3a5e5589-fd91-4baa-8afa-9a0b49a4745d",
+        "name": "Saxofone",
+        "organizationTeamName": "Metais",
+        "organizationTeamId": "d382f706-e551-44d6-8e6d-f2ff15a6e9da"
+      }
+    ]
+  },
+  {
+    "id": "f344ed86-15d8-4b54-b620-34e788e83f87",
+    "email": "hm885124@gmail.com",
+    "name": "Henryque Marques",
+    "organizationTeamPositions": [
+      {
+        "id": "f7636612-a371-4dff-88f3-8f046ee0b892",
+        "name": "Projeção",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "d16fd6a7-f2a4-4989-8c3f-d0b7112e03bf",
+        "name": "1. Live",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      },
+      {
+        "id": "2d5db311-0a19-4793-aea9-c4dcfa21dbb7",
+        "name": "2. Câmera",
+        "organizationTeamName": "Mídia",
+        "organizationTeamId": "b680ed9c-4955-449e-ba83-84f949239701"
+      }
+    ]
+  },
+  {
+    "id": "f7ddc8bf-efd8-44f8-ae0d-e794c50df631",
+    "email": "dior9playmusic@gmail.com",
+    "name": "Diego Rafael Pellegrino Freire ",
+    "organizationTeamPositions": [
+      {
+        "id": "2cf21a1d-f6d9-410e-aff7-6715ca673355",
+        "name": "Diretor de banda",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      },
+      {
+        "id": "7721c391-497d-442d-9e85-6df0c851cdd1",
+        "name": "Teclado",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  },
+  {
+    "id": "fd209d69-16ef-410f-95d5-91ceaea7cc4a",
+    "email": "robsonkeys@gmail.com",
+    "name": "Robson Ferreira ",
+    "organizationTeamPositions": [
+      {
+        "id": "7721c391-497d-442d-9e85-6df0c851cdd1",
+        "name": "Teclado",
+        "organizationTeamName": "Banda",
+        "organizationTeamId": "aa6dac27-aadf-4994-8f37-c5e7be65c07f"
+      }
+    ]
+  }
+]
