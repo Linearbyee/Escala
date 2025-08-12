@@ -1,0 +1,18 @@
+
+Está funcionando apenas no python 3.10
+
+Bibliotecas necessarias:
+fastapi 
+uvicorn 
+playwright 
+beautifulsoup4 
+lxml
+
+playwright 
+
+
+URL'S que retorna dados
+http://127.0.0.1:8000/verificarDisponibilidade
+http://127.0.0.1:8000/usuarios
+http://127.0.0.1:8000/bloqueios
+http://127.0.0.1:8000/puxarEventos

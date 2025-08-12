@@ -21,25 +21,16 @@ def verificar_disponibilidade():
             nome_user = normalizar_nome(user["name"])
             if nome_user in desc_normalizado:
                 datas = re.findall(r"(\d{2}/\d{2}/\d{4})", descricao)
-                bloqueios_por_usuario.setdefault(user["name"], []).append({
-                    "datas": datas,
-                    "descricao": descricao.strip()
-                })
+                bloqueios_por_usuario.setdefault(user["name"], []).extend(datas)
 
-    print("📋 Relatório de disponibilidade (ordenado):\n")
+    resultado = {"disponível": [], "bloqueado": []}
 
-    # 🔤 Ordena os usuários pelo nome
-    usuarios_ordenados = sorted(usuarios, key=lambda u: u["name"].lower())
-
-    for user in usuarios_ordenados:
+    for user in sorted(usuarios, key=lambda u: u["name"].lower()):
         nome = user["name"]
         if nome in bloqueios_por_usuario:
-            entradas = bloqueios_por_usuario[nome]
-            datas_flat = [data for b in entradas for data in b["datas"]]
-            datas_str = ", ".join(sorted(set(datas_flat)))
-            print(f"⛔ {nome} — bloqueado em {datas_str if datas_str else 'data não especificada'}")
+            datas_unicas = sorted(set(bloqueios_por_usuario[nome]))
+            resultado["bloqueado"].append({"nome": nome, "datas": datas_unicas})
         else:
-            print(f"✅ {nome} — disponível")
+            resultado["disponível"].append({"nome": nome, "datas": []})
 
-if __name__ == "__main__":
-    verificar_disponibilidade()
+    return resultado

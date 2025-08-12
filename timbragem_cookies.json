@@ -1,7 +1,7 @@
 [
   {
     "name": ".AspNetCore.Antiforgery.9TtSrW0hzOs",
-    "value": "CfDJ8Hx3G9sWotRNgDBeqpaRZjsefnA7ddorQy6qPpIxgTEs_kzIMcBOcv8bzTe9oYj4z-v19I79j6fwx-OM6G-onOQT_LVncFPDAGSFaSCU-tkRwx54RU-S6c1CXy80kwU4YznU_Y3WhNHIYLYBqpDFbYU",
+    "value": "CfDJ8Hx3G9sWotRNgDBeqpaRZjtu8f2SYKpvBFxIY8FjX5tM14Fs94h3CZ5W4vducuNRX72RRWsmEEmm_UkEAVebsfV294DqXFrCiHbxRFN1AMy9IlYVkwvzOLi8Po-9Md2GhuFc6JnUJFGK7DTxTK9GK4g",
     "domain": "www.timbragemplan.com.br",
     "path": "/",
     "expires": -1,
@@ -11,10 +11,10 @@
   },
   {
     "name": ".AspNetCore.Identity.Application",
-    "value": "CfDJ8Hx3G9sWotRNgDBeqpaRZjv4h4T6z3k0E3oSwis4OZKJytNtmo2jeeGQ7b46S4llwRdrhXTanCOpGzUMRaVLcoeEkviAhnHb-HDwJt04vHPgNf10esOSpwSn4a5AbGsmtyvDvUMkPrrmhCc3cLmmo43VU76MdIY46Efn1IStb6XxfG4bcdufFjfUgIXbRZoiuBWqi7rz3_4jocow5UrbJIWK4KyH0Mk7cT3gFHGX1-nJowiiqzX-rACMsc3tGAP0whSKadYfbwrM_Sbk4vePa_UDNFRFlMSeCSxVcWVRTNltBaNd3hqjjWu92yrurYcMHtIq2D6FgfPCkjMKohERk52sIb3i6xYjkkNQc9U9oN2tqx0TSHqQW_CXyW737ndK3MgDrkUGj4HityEEu2PazQ1xqM7klOwBEQGhs6UwCwoNf6zkB005YbyrzvL_fZdzx0GMLy9p7S8-Wn6xgPmSC5BX-2Y-0hThg8rb0l3NlV1mQaF6bw95gHKfRivY6ZrlnGR1sQv2j8xtTZoQ-C074GtDHIMZvCr5iamGRfVhIg8ux9ysPHeGJ52cCPw1jY5idFq3cjm1T8MdUrEzUGuFNmzOWiQFPRvhIQD-lwr9XPsb3ZiCTWnv5lr7BEzUBXskWe6Sqdr-F3jYZJCv-hBa0dE",
+    "value": "CfDJ8Hx3G9sWotRNgDBeqpaRZjtYhAiozyxcYAiGH5j98C7DhHgWMOELwBmRC7wypDIdhwJqn5mULJagT5CY9dNDHy6Hq1UAXg6kYlmCaD1SVTyoTJvAFgeiDCm9dpX1h6454x2gkgjR2lW7OmEIqPj60PDxQ30MwhtbpU2kaoNEUhF8VSiqbr_9qLZ_6ERrVTsDWRVjWjx9NEsx9YzfufpHjvI-Qzz_XEREw6gEyVcsdkGPRejapibGHrlyg8DJbQ4rIcJjsSWeEU87u1pGglyuSOR6wQvFHqDVEkgacWyzJuve4IB_Q0bxzD797Mox43nOipGetlzBVLhdAsKwnT-7DUlK_l-E868jQZqvMy6OZyrK4NzP20CCbGxRCX6eY1fbYdku9nh7cCRU5xyKhQm-NW0ww3OFMUneeVay2wjUd7g8hc4c-zT9WBg5QCiVPegBrr-FPnvIFxVu-7ueqHLIPDRofl9foAzhaKM7z9h0HRDR7mQGUFx771pW1j-0fJm7BczPIDNh42GXBOD3sCd33qB7FGICfPDAMA5ZCPaGErAuQiQon6tpyL8dw4-37AJ-vRVl_Q9pmV77P_BuNIsWDRvdhwx4OO6-_rCUmKZVd2HoD_7_iuyWIcrf_bDXeait-cJEDm_VOCH-VrLAz9sXQiY",
     "domain": "www.timbragemplan.com.br",
     "path": "/",
-    "expires": 1755306434.85807,
+    "expires": 1756182083.923764,
     "httpOnly": true,
     "secure": false,
     "sameSite": "Lax"
