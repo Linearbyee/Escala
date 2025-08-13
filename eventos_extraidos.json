@@ -1,135 +1,156 @@
 [
   {
-    "descricao": "Culto mulheres | Segunda 20h15 | 11 Agosto   20:15h 11/08/2025",
-    "horario": "20:15h",
-    "data": ""
-  },
-  {
+    "eventId": "ebaff5de-3c09-404a-9fff-5fe33ecb9659",
     "descricao": "Celebração | Domingo 10h | 17 agosto   10:00h 17/08/2025",
-    "horario": "10:00h",
-    "data": ""
+    "horario": "10:00",
+    "data": "2025-08-17"
   },
   {
+    "eventId": "8d4fa9bf-d58f-4e9b-9077-af1463bfae8c",
     "descricao": "Celebração | Domingo 18h | 17 agosto   18:00h 17/08/2025",
-    "horario": "18:00h",
-    "data": ""
+    "horario": "18:00",
+    "data": "2025-08-17"
   },
   {
+    "eventId": "88420d13-515d-428a-8032-f4792995c537",
     "descricao": "Poder e Milagres | segunda 20h15 | 18 agosto   20:15h 18/08/2025",
-    "horario": "20:15h",
-    "data": ""
+    "horario": "20:15",
+    "data": "2025-08-18"
   },
   {
+    "eventId": "81bda93a-00d2-4394-8e1d-05ff35ba5309",
     "descricao": "Celebração | Domingo 10h | 24 agosto   10:00h 24/08/2025",
-    "horario": "10:00h",
-    "data": ""
+    "horario": "10:00",
+    "data": "2025-08-24"
   },
   {
+    "eventId": "ba1512f5-f873-408a-b567-34a6658a27c9",
     "descricao": "Celebração | Domingo 18h | 24 agosto   18:00h 24/08/2025",
-    "horario": "18:00h",
-    "data": ""
+    "horario": "18:00",
+    "data": "2025-08-24"
   },
   {
+    "eventId": "f02073be-920b-4219-9cc5-fd9c875aa181",
     "descricao": "Culto homens | segunda 20h15 | 25 agosto   20:15h 25/08/2025",
-    "horario": "20:15h",
-    "data": ""
+    "horario": "20:15",
+    "data": "2025-08-25"
   },
   {
+    "eventId": "b40974f3-670a-4e57-9fe2-3a193516f9b9",
     "descricao": "Celebração | Domingo 10h | 31 agosto   10:00h 31/08/2025",
-    "horario": "10:00h",
-    "data": ""
+    "horario": "10:00",
+    "data": "2025-08-31"
   },
   {
+    "eventId": "dd378af7-5a36-46db-a759-a18cafefd5d1",
     "descricao": "Celebração | Domingo 18h | 31 agosto   18:00h 31/08/2025",
-    "horario": "18:00h",
-    "data": ""
+    "horario": "18:00",
+    "data": "2025-08-31"
   },
   {
+    "eventId": "91db71eb-ad95-4fe9-a057-7d462f537442",
     "descricao": "Poder e Milagres | Segunda 20h15 | 01 setembro   20:15h 01/09/2025",
-    "horario": "20:15h",
-    "data": ""
+    "horario": "20:15",
+    "data": "2025-09-01"
   },
   {
+    "eventId": "ab016429-8e0f-4631-bbe1-02c1a4c2944e",
     "descricao": "Conecta |  Sábado 19h30 | 06 Setembro   19:30h 06/09/2025",
-    "horario": "19:30h",
-    "data": ""
+    "horario": "19:30",
+    "data": "2025-09-06"
   },
   {
+    "eventId": "4b3ea29f-a407-40fd-aa4a-9beb0f85d358",
     "descricao": "Celebração | Domingo 10h | 07 setembro   10:00h 07/09/2025",
-    "horario": "10:00h",
-    "data": ""
+    "horario": "10:00",
+    "data": "2025-09-07"
   },
   {
+    "eventId": "5748a9f4-3de4-4ee5-96b0-e4624fbad526",
     "descricao": "Celebração | Domingo 18h | 07 Setembro   18:00h 07/09/2025",
-    "horario": "18:00h",
-    "data": ""
+    "horario": "18:00",
+    "data": "2025-09-07"
   },
   {
+    "eventId": "a395256e-3b42-4a11-a761-dd90a55da5dc",
     "descricao": "Culto mulheres | Segunda 20h15 | 08 Setembro   20:15h 08/09/2025",
-    "horario": "20:15h",
-    "data": ""
+    "horario": "20:15",
+    "data": "2025-09-08"
   },
   {
+    "eventId": "24853ca1-1edc-459b-8c7b-98664d760176",
     "descricao": "Santa Ceia | Domingo 10h | 14 Setembro   10:00h 14/09/2025",
-    "horario": "10:00h",
-    "data": ""
+    "horario": "10:00",
+    "data": "2025-09-14"
   },
   {
+    "eventId": "dda38dc2-dc8c-45c9-bc93-0eb2dda3fcb8",
     "descricao": "Santa Ceia | Domingo 18h | 14 Setembro   18:00h 14/09/2025",
-    "horario": "18:00h",
-    "data": ""
+    "horario": "18:00",
+    "data": "2025-09-14"
   },
   {
+    "eventId": "ac2c20a6-e1c1-4cb1-9b51-ed33efde7935",
     "descricao": "Poder e Milagres | Segunda 20h15 |  15 Setembro   20:15h 15/09/2025",
-    "horario": "20:15h",
-    "data": ""
+    "horario": "20:15",
+    "data": "2025-09-15"
   },
   {
+    "eventId": "c6302c55-aadb-4e05-812b-2951ede295f1",
     "descricao": "Celebração | Domingo 10h | 21 Setembro   10:00h 21/09/2025",
-    "horario": "10:00h",
-    "data": ""
+    "horario": "10:00",
+    "data": "2025-09-21"
   },
   {
+    "eventId": "2e618f50-a472-4698-9c1e-9d2792292af1",
     "descricao": "Celebração | Domingo 18h | 21 Setembro   18:00h 21/09/2025",
-    "horario": "18:00h",
-    "data": ""
+    "horario": "18:00",
+    "data": "2025-09-21"
   },
   {
+    "eventId": "54fe4867-c194-4eba-a9af-0c8f1f4176a2",
     "descricao": "Culto homens | segunda 20h15 | 22 setembro   20:15h 22/09/2025",
-    "horario": "20:15h",
-    "data": ""
+    "horario": "20:15",
+    "data": "2025-09-22"
   },
   {
+    "eventId": "dc6885ad-fc1e-4ab9-afa3-a0fa0e0b18fb",
     "descricao": "Celebração | Domingo 10h | 28 setembro   10:00h 28/09/2025",
-    "horario": "10:00h",
-    "data": ""
+    "horario": "10:00",
+    "data": "2025-09-28"
   },
   {
+    "eventId": "bddc29c8-2842-4094-bace-8feec838bbc9",
     "descricao": "Celebração | Domingo 18h | 28 setembro   18:00h 28/09/2025",
-    "horario": "18:00h",
-    "data": ""
+    "horario": "18:00",
+    "data": "2025-09-28"
   },
   {
+    "eventId": "2993cb54-60cc-49a4-a3fa-8f990f6b6e5e",
     "descricao": "Louvemos | segunda 20h15 | 29 Setembro   20:15h 29/09/2025",
-    "horario": "20:15h",
-    "data": ""
+    "horario": "20:15",
+    "data": "2025-09-29"
   },
   {
+    "eventId": "",
     "descricao": "Celebração | Domingo 10h | Data - template",
     "horario": "",
     "data": ""
   },
   {
+    "eventId": "",
     "descricao": "Celebração | Domingo 18h | Data - template",
     "horario": "",
     "data": ""
   },
   {
+    "eventId": "",
     "descricao": "Conecta | Sábado 19h30 | Data - template",
     "horario": "",
     "data": ""
   },
   {
+    "eventId": "",
     "descricao": "Poder e Milagres | Sexta 20h | Data - template",
     "horario": "",
     "data": ""
